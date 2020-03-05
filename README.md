@@ -1,4 +1,4 @@
-# For of text-readability 
+# Fork of text-readability 
 npm package to calculate statistics from text to determine readability, complexity and grade level of a particular corpus.
 
 Forked to resolve bug and create a useable version for a local project until the existing pacakge is updated.
